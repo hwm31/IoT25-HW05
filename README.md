@@ -1,1 +1,12 @@
 # IoT25-HW05
+202334484 손인화
+
+## Screenshot of Arduino showing the project working
+
+### Server
+
+### Client
+<img width="1092" alt="스크린샷 2025-05-18 오후 3 00 25" src="https://github.com/user-attachments/assets/da400050-9f30-4027-a630-65ff18c43cd5" />
+
+
+## Photo or video of the deployment & test/demo
